@@ -130,8 +130,8 @@ EC2 instances, storage, and related resources may incur charges. Pricing and Fre
 **Darshan Patil**  
 Cloud & DevOps Learner
 
-- GitHub: [Add your GitHub profile link](https://github.com/)
-- LinkedIn: [Add your LinkedIn profile link](https://www.linkedin.com/)
+- GitHub: [Darshan Patil](https://github.com/darshanpatil8799/darshanpatil8799)
+- LinkedIn: [Darshan Patil](www.linkedin.com/in/darshan-devops)
 
 ---
 
