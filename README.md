@@ -108,12 +108,6 @@ Add your screenshots to a folder named `screenshots/`, then update the image lin
     └── windows-desktop.png
 ```
 
-Example:
-
-```markdown
-![EC2 Instance](screenshots/ec2-instance.png)
-```
-
 ## 💰 Cost Awareness
 
 EC2 instances, storage, and related resources may incur charges. Pricing and Free Tier eligibility depend on your account, region, instance type, and current AWS terms. Check the AWS pricing page before deployment and stop or terminate resources when finished.
